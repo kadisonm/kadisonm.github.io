@@ -1,2 +1,2 @@
-# kadisonm.github.io
-My portfolio site.
+# My Portfolio
+This repository is still under construction.
